@@ -1,21 +1,5 @@
-Macrotrends Data Download
-
-Kenya Urban Population 1960-2023
-
-
-DISCLAIMER AND TERMS OF USE: HISTORICAL DATA IS PROVIDED "AS IS" AND SOLELY
-FOR INFORMATIONAL PURPOSES - NOT FOR TRADING PURPOSES OR ADVICE.
-NEITHER MACROTRENDS LLC NOR ANY OF OUR INFORMATION PROVIDERS WILL BE LIABLE
-FOR ANY DAMAGES RELATING TO YOUR USE OF THE DATA PROVIDED.
-
-
-ATTRIBUTION: Proper attribution requires clear indication of the data source as "www.macrotrends.net".
-A "dofollow" backlink to the originating page is also required if the data is displayed on a web page.
-
-
-, Population, % of Total, Change
 date, Urban Population, % of Total, Annual % Change
-1960-12-31,570661,7.362
+1960-12-31,570661,7.362,
 1961-12-31,608791,7.565,6.468
 1962-12-31,650185,7.774,6.5782
 1963-12-31,699081,8.038,7.251

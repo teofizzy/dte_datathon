@@ -1,21 +1,5 @@
-Macrotrends Data Download
-
-Kenya Rural Population 1960-2023
-
-
-DISCLAIMER AND TERMS OF USE: HISTORICAL DATA IS PROVIDED "AS IS" AND SOLELY
-FOR INFORMATIONAL PURPOSES - NOT FOR TRADING PURPOSES OR ADVICE.
-NEITHER MACROTRENDS LLC NOR ANY OF OUR INFORMATION PROVIDERS WILL BE LIABLE
-FOR ANY DAMAGES RELATING TO YOUR USE OF THE DATA PROVIDED.
-
-
-ATTRIBUTION: Proper attribution requires clear indication of the data source as "www.macrotrends.net".
-A "dofollow" backlink to the originating page is also required if the data is displayed on a web page.
-
-
-, Population, % of Total, Change
 date, Rural Population, % of Total, Annual % Change
-1960-12-31,7180774,92.638
+1960-12-31,7180774,92.638,
 1961-12-31,7438679,92.435,3.5286
 1962-12-31,7713393,92.226,3.6265
 1963-12-31,7998119,91.962,3.6248

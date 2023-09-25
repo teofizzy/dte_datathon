@@ -1,21 +1,5 @@
-Macrotrends Data Download
-
-Kenya GDP 1960-2023
-
-
-DISCLAIMER AND TERMS OF USE: HISTORICAL DATA IS PROVIDED "AS IS" AND SOLELY
-FOR INFORMATIONAL PURPOSES - NOT FOR TRADING PURPOSES OR ADVICE.
-NEITHER MACROTRENDS LLC NOR ANY OF OUR INFORMATION PROVIDERS WILL BE LIABLE
-FOR ANY DAMAGES RELATING TO YOUR USE OF THE DATA PROVIDED.
-
-
-ATTRIBUTION: Proper attribution requires clear indication of the data source as "www.macrotrends.net".
-A "dofollow" backlink to the originating page is also required if the data is displayed on a web page.
-
-
-, GDP, Per Capita, Growth
 date, GDP ( Billions of US $), Per Capita (US $), Annual % Change
-1960-12-31,0.7912654588133,102.0799
+1960-12-31,0.7912654588133,102.0799,
 1961-12-31,0.7929594721343,98.5353,-7.7746
 1962-12-31,0.8681114000089,103.7967,9.4574
 1963-12-31,0.9265893485674,106.5388,8.7783
