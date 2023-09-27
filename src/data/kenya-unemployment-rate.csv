@@ -1,4 +1,4 @@
-date, Unemployment Rate (%), Annual Change, 
+time,unemployment_rate_%,annual_unemp_change_%, 
 1991-12-31,3.276,,
 1992-12-31,3.288,0.01,
 1993-12-31,3.256,-0.03,
