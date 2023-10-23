@@ -1,6 +1,23 @@
 # dte_datathon
 This is a repository to serve as the team's remote repo for the dte datathon
 
+Below is the project structure:
+# src
+
+* [challenges/](./src/challenges)
+  * [challenge_1/](./src/challenges/challenge_1)
+    * [about.py](./src/challenges/challenge_1/about.py)
+    * [dashboard.py](./src/challenges/challenge_1/dashboard.py)
+    * [t_index.ipynb](./src/challenges/challenge_1/t_index.ipynb)
+  * [challenge_2/](./src/challenges/challenge_2)
+    * [dte_datathon_data_report.pdf](./src/challenges/challenge_2/dte_datathon_data_report.pdf)
+    * [etl_system.py](./src/challenges/challenge_2/etl_system.py)
+    * [index_2.ipynb](./src/challenges/challenge_2/index_2.ipynb)
+    * [readme.md](./src/challenges/challenge_2/readme.md)
+    * [s3_cli.sh](./src/challenges/challenge_2/s3_cli.sh)
+* [reports/](./src/reports)
+
+
 ## Challenge 1 Summary:
 The first challenge was focused on urbanization in Kenya.
 The study sought to find the patterns and trends associated with urbanization in Kenya.
