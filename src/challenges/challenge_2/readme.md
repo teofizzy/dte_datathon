@@ -3,8 +3,17 @@ This is the second of four phases required by the participants as stipulated by 
 
 ![imageurl](https://t3.ftcdn.net/jpg/06/19/70/44/240_F_619704440_CUxs2uctpsOpjcshPyzCAGtqQLKOXiQ9.jpg)
 
+## Project structure:
+# challenge_2
+* [dte_datathon_data_report.pdf](./challenge_2/dte_datathon_data_report.pdf)
+* [etl_system.py](./challenge_2/etl_system.py)
+* [index_2.ipynb](./challenge_2/index_2.ipynb) - data analysis file
+* [readme.md](./challenge_2/readme.md)
+* [s3_cli.sh](./challenge_2/s3_cli.sh) - aws client
+
+
 ## 1. Objective:
-This study shall focus on two of the diseases named above, these are heart conditions and pneumonia. The objective of this study is to analyze the data with an aim of finding trends, patterns and insights that can be found within the data and communicate the findings of the study.
+This study shall focus on two of the diseases named above, these are heart conditions. The objective of this study is to analyze the data with an aim of finding trends, patterns and insights that can be found within the data and communicate the findings of the study.
 
 ## 2. Data Collection and Ingestion:
 Data of the clinical trials was downloaded from the provisions made by the dte team and stored in a centralized repository.
